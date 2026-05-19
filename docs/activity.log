@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-15T15:25:44Z
-Entry: feat: add validation schema for runtime configuration options
-Sequence: 33/98
+Last updated: 2026-05-19T14:30:16Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 34/98
