@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-31T14:10:27Z
-Entry: feat: implement initial core logic and pipeline structure
-Sequence: 43/98
+Last updated: 2026-06-02T12:49:14Z
+Entry: refactor: extract reusable helper routines into utility module
+Sequence: 44/98
